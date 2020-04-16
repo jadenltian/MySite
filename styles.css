@@ -1,0 +1,41 @@
+body {
+margin: 0;
+}
+div{
+    background-color: midnightblue;
+    border:300px;
+    border-width: px;
+    border-top: 20px;
+}
+
+.top-container{
+    background-color: powderblue;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+
+    border: solid 10px;
+
+
+
+
+}
+.middle-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+
+    border: solid 20px;
+
+    margin-left: 260px;
+}
+.bottom-container{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+
+    border: solid 10px;
+    margin-left: 540px;
+}
