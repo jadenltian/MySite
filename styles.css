@@ -1,34 +1,70 @@
 body {
 margin: 0;
+    text-align:center;
+
+    font-family: sans-serif;
+    font-size: 2em;
+    background-color: springgreen;
+
 }
+h1{
+  font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: "Comic Sans MS";
+    color: yellowgreen;
+    line-height: 2;
+
+}
+h2{
+  font-family: Verdana;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+h3{
+  font-family: sans-serif;
+    color: 11999E;
+
+}
+
+
+
+
+
+
+
+
+
 div{
-    background-color: midnightblue;
+
     border:300px;
     border-width: px;
     border-top: 20px;
+
 }
 
 
-.a{
+.top-container{
+}
     background-color: powderblue;
+    position:relative;
+    padding-top: ;
 
 
 
+
+
+
+
+}
+
+.middle-container{
 
 
 
 }
+.bottom-container{
 
-.b{
-    background-color: red;
-    width: 200px;
-    height: 200px;
-
-}
-.c{
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
 
 }
 .eat{
@@ -38,4 +74,10 @@ div{
         top:20px
     }
 }
+.bottom-cloud{
+    position: absolute;
+
+}
+.top-cloud{
+   margin-left:450px ;
 
