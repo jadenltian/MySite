@@ -67,6 +67,17 @@ div{
 
 
 }
+.skill-row{
+    margin: auto;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+
+}
+
+
 .eat{
     text-decoration: underline;
     img{
@@ -78,6 +89,16 @@ div{
     position: absolute;
 
 }
-.top-cloud{
-   margin-left:450px ;
+.top-cloud {
+    margin-left: 450px;
+}
+.rogue{
+    width: 210px;
+    height: auto;
+    float: right;
+
+}
+.trader{
+    float: left;
+}
 
