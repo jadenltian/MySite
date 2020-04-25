@@ -101,4 +101,13 @@ div{
 .trader{
     float: left;
 }
+.image-button{
+    box-shadow: grey;
+}
+.image-button:hover{
+   box-shadow: 6px 6px 3px grey;
+    position:relative;
+    bottom: 4px;
+    right: 4px;
 
+}
